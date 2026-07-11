@@ -1,0 +1,6 @@
+{
+  "name": "Library Management System",
+  "description": "A full-stack, secure library management system with Google Authentication, PostgreSQL-backed catalog, and transaction management for borrowing and returning books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
